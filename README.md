@@ -57,15 +57,15 @@ A full-stack web application enabling users to manage their contacts efficiently
 ## Folder Structure
 
 ```
-contact-manager/
-├── contact-manager-frontend/
+contacts-manager/
+├── contact-frontend/
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── Home.jsx
 │   │   │   ├── AddContact.jsx
 │   │   │   └── ContactList.jsx
 │   └── App.jsx
-├── contact-manager-backend/
+├── contact-backend/
 │   ├── app/
 │   │   ├── models/contact.rb
 │   │   └── controllers/contacts_controller.rb
